@@ -38,3 +38,6 @@
 /ArenaBattle/Content/InfinityBladeWarriors/*
 /ArenaBattle/Intermediate/Build/**/*
 /ArenaBattle/.vs/**/*
+*.pdb
+ArenaBattle/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+ArenaBattle/Saved/AutoScreenshot.png
